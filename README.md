@@ -2,7 +2,7 @@
 
 ## Flux capacitors!
 
-When I was a freshman in high school, quite enamored by non-mathematical physics, I came across a slick argument about how gravity would differ if the inverse square law differed by some small factor. Namely, by conservation of gravitational flux, lowering the number of dimensions in use decreases the degree of the hyper-sphere (over which the flux is taken), and thus the power of the inverse square law. That is, we go from Gm_1m_2/r^2 ---> Gm_1m_2/r^k, where k = d+1.
+When I was a freshman in high school, quite enamored by non-mathematical physics, I came across a slick argument about how gravity would differ if the inverse square law differed by some small factor. Namely, by conservation of gravitational flux, lowering the number of dimensions in use decreases the degree of the hyper-sphere (over which the flux is taken), and thus the power of the inverse square law. That is, we go from Gm_1m_2/r^2 ---> Gm_1m_2/r^k, where k = d-1.
 
 ## Why this should be written in Javascript
 
